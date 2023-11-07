@@ -1,10 +1,19 @@
 # P4Pir
-source code for P4Pir 
 Simplified version for demo
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+## Prepare your environment
 
+This demo is based on [BMv2](https://github.com/p4lang/behavioral-model) in Ubuntu 20.04.
+
+Please make sure the following packages are installed by running: 
+```
+$ pip3 install -r ./requirements.txt
+```
+💡 To run the demo on Raspberry Pi, please follow the [P4Pi](https://github.com/p4lang/p4pi/wiki/Installing-P4Pi) guideline to configure the environment. 
+
+## Run a simple demo
 To run this code: 
 1. Compile and run the BMv2 environment:
 ```
@@ -19,6 +28,7 @@ $ python3 conroller_cleaned.py
 ```
 mininet> sh timeout 15 tcpreplay -i s1-eth1 ./Data/EDGEIIOT/DDoSTCPSYN.pcap
 ```
+
 
 
 # Citation
