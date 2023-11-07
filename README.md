@@ -11,7 +11,7 @@ Please make sure the following packages are installed by running:
 ```
 $ pip3 install -r ./requirements.txt
 ```
-💡 To run the demo on Raspberry Pi, please follow the [P4Pi](https://github.com/p4lang/p4pi/wiki/Installing-P4Pi) guideline to configure the environment. 
+💡 To run the demo on Raspberry Pi, please follow the [P4Pi](https://github.com/p4lang/p4pi) guideline to configure the environment. 
 
 ## Run a simple demo
 To run this code: 
