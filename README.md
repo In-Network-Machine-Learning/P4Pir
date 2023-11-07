@@ -32,7 +32,7 @@ mininet> sh timeout 15 tcpreplay -i s1-eth1 ./Data/EDGEIIOT/DDoSTCPSYN.pcap
 * The source of the pcap capture and dataset: [Edge-IIoTset](http://ieee-dataport.org/8939)
 
 
-# Citation
+## Citation
 
 P4Pir builds upon [Planter](https://github.com/In-Network-Machine-Learning/Planter) and is further inspired by [IIsy](https://github.com/cucl-srg/IIsy), [SwitchTree](https://github.com/ksingh25/SwitchTree), [pForest](https://arxiv.org/abs/1909.05680), [ACC-Turbo](https://github.com/nsg-ethz/ACC-Turbo).
 
@@ -67,7 +67,7 @@ series = {SIGCOMM '22}
 
 ````
 
-If you are interested in further details and more use cases of In-Network Machine Learning inference and how an ML model is mapped to a programmable data plane, please refer to [Planter](https://arxiv.org/abs/2205.08824), [IIsy](https://arxiv.org/abs/2205.08243), [Linnet](https://dl.acm.org/doi/abs/10.1145/3546037.3546057), [LOBIN](https://ieeexplore.ieee.org/document/10147958):
+💡 If you are interested in further details and more use cases of In-Network Machine Learning inference and how an ML model is mapped to a programmable data plane, please refer to [Planter](https://arxiv.org/abs/2205.08824), [IIsy](https://arxiv.org/abs/2205.08243), [Linnet](https://dl.acm.org/doi/abs/10.1145/3546037.3546057), [LOBIN](https://ieeexplore.ieee.org/document/10147958):
 
 ````
 @article{zheng2022automating,
