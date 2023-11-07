@@ -29,6 +29,7 @@ $ python3 conroller_cleaned.py
 mininet> sh timeout 15 tcpreplay -i s1-eth1 ./Data/EDGEIIOT/DDoSTCPSYN.pcap
 ```
 
+* The source of the pcap capture and dataset: [Edge-IIoTset](http://ieee-dataport.org/8939)
 
 
 # Citation
