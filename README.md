@@ -1,7 +1,8 @@
-# P4Pir
-Simplified version for demo
+# P4Pir  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+P4Pir is an in-network traffic analysis framework in IoT gateway, leveraging in-network ML inference for accurate detection and fast mitigation of emerging attacks. 
+
+This repo is a simplified version of the demo.
 
 ## Prepare your environment
 
@@ -112,3 +113,8 @@ series = {SIGCOMM '22}
 
 
 ````
+
+
+## Acknowledgment
+This work was partly supported by the Otto Mønsted Foundation, VMware, and EU Horizon SMARTEDGE (101092908).
+
