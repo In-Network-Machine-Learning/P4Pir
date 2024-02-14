@@ -116,5 +116,5 @@ series = {SIGCOMM '22}
 
 
 ## Acknowledgment
-This work was partly supported by the Otto Mønsted Foundation, VMware, and EU Horizon SMARTEDGE (101092908).
+This work was partly supported by the Otto Mønsted Foundation, VMware, and EU Horizon SMARTEDGE (101092908, UKRI 10056403).
 
